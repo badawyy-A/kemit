@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kemit/static/css/main.d32f4e36.css",
-    "main.js": "/kemit/static/js/main.b58c056d.js",
+    "main.css": "/kemit/static/css/main.c9e96c61.css",
+    "main.js": "/kemit/static/js/main.dc9ef593.js",
     "static/js/787.83e1f1ea.chunk.js": "/kemit/static/js/787.83e1f1ea.chunk.js",
     "index.html": "/kemit/index.html",
-    "main.d32f4e36.css.map": "/kemit/static/css/main.d32f4e36.css.map",
-    "main.b58c056d.js.map": "/kemit/static/js/main.b58c056d.js.map",
+    "main.c9e96c61.css.map": "/kemit/static/css/main.c9e96c61.css.map",
+    "main.dc9ef593.js.map": "/kemit/static/js/main.dc9ef593.js.map",
     "787.83e1f1ea.chunk.js.map": "/kemit/static/js/787.83e1f1ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d32f4e36.css",
-    "static/js/main.b58c056d.js"
+    "static/css/main.c9e96c61.css",
+    "static/js/main.dc9ef593.js"
   ]
 }
